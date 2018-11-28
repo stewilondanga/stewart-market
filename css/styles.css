@@ -52,13 +52,12 @@
   background: #eeeeee;
 }
 
-/*.item.list-group-item:before, .item.list-group-item:after
-{
-    display: table;
-    content: " ";
+.item.list-group-item:before, .item.list-group-item:after {
+  display: table;
+  content: " ";
 }
 
-.item.list-group-item img
+/*.item.list-group-item img
 {
     float: left;
 }
