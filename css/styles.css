@@ -65,12 +65,11 @@
   clear: both;
 }
 
-/*.list-group-item-text
-{
-    margin: 0 0 11px;
+.list-group-item-text {
+  margin: 0 0 11px;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
