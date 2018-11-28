@@ -13,8 +13,11 @@
   height: 1.5em;
 }
 
-/*.glyphicon { margin-right:5px; }
-.thumbnail
+.glyphicon {
+  margin-right: 5px;
+}
+
+/*.thumbnail
 {
     margin-bottom: 20px;
     padding: 0px;
