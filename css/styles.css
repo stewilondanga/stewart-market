@@ -61,11 +61,11 @@
   float: left;
 }
 
-/*.item.list-group-item:after
-{
-    clear: both;
+.item.list-group-item:after {
+  clear: both;
 }
-.list-group-item-text
+
+/*.list-group-item-text
 {
     margin: 0 0 11px;
 }
