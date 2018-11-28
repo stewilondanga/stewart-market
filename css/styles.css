@@ -57,11 +57,11 @@
   content: " ";
 }
 
-/*.item.list-group-item img
-{
-    float: left;
+.item.list-group-item img {
+  float: left;
 }
-.item.list-group-item:after
+
+/*.item.list-group-item:after
 {
     clear: both;
 }
