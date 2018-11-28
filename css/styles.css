@@ -40,11 +40,11 @@
   margin-right: 10px;
 }
 
-/*.item.list-group-item .thumbnail
-{
-    margin-bottom: 0px;
+.item.list-group-item .thumbnail {
+  margin-bottom: 0px;
 }
-.item.list-group-item .caption
+
+/*.item.list-group-item .caption
 {
     padding: 9px 9px 0px 9px;
 }
